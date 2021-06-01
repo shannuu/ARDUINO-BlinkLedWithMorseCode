@@ -1,4 +1,4 @@
-# ARDUINO MORSE LED BLINK
+# ARDUINO, BLINK LED WITH MORSE CODE
 
 Copy the code and paste it in your arduino ide and upload the morse code, the led connected to your arduino will blink like the morse.
 
