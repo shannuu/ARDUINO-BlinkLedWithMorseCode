@@ -1,10 +1,10 @@
-# automorsecodegen
+# ARDUINO MORSE LED BLINK
 
 Copy the code and paste it in your arduino ide and upload the morse code, the led connected to your arduino will blink like the morse.
 
 
 
-ON COMPUTER
+# ON COMPUTER
 
 REQUIREMENTS:- 1. USB CABLE 2.0 A TO B
                2. ARDUINO UNO OR MAYBE ANY ARDUINO
@@ -20,7 +20,7 @@ REQUIREMENTS:- 1. USB CABLE 2.0 A TO B
 
 
 
-ON ANDROID MOBILE
+# ON ANDROID MOBILE
 
 REQUIREMENTS:- 1. ARDUINO UNO
                2. USB CABLE 2.0 A TO B
