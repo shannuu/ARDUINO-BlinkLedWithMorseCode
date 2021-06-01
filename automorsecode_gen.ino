@@ -27,8 +27,6 @@ void dot_(){
 
 void stringchecker(){
     int length = morsecode.length();
-    Serial.begin(9600);
-    Serial.print(length);
     for(int i=0; i<length; i++){
         char morse = morsecode.charAt(i);
         
