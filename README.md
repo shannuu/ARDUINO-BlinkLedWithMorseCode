@@ -38,3 +38,42 @@ Copy the code and paste it in your arduino ide and upload the morse code, the le
 4. EDIT THE CHANGES (WHICH ARE SAME AS THE COMPUTER)
 5. COMPILE (THUNDER BUTTON)
 6. UPLOAD (DOWNLOAD BUTTON)
+
+##MORSE CODES
+A  .-
+B  -...
+C  -.-.
+D  -..
+E  .
+F  ..-.
+G  -..
+H  ....
+I  ..
+J  .---
+K  -.-
+L  .-..
+M  --
+N  -.
+O  ---
+P  .--.
+Q  --.-
+R  .-.
+S  ...
+T  -
+U  ..-
+V  ...-
+W  .--
+X  -..-
+Y  -.--
+Z  --..
+
+1  .----
+2  ..---
+3  ...--
+4  ....-
+5  .....
+6  -....
+7  --...
+8  ---..
+9  ----.
+10 -----
